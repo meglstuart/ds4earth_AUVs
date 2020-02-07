@@ -13,10 +13,10 @@ Dr. Roy Ying Hae - NC State professor who does regional ocean models
 
 
 ## Meg's To Do
-- [] Read guidance paper
-- [] Contact Harvey Seim
-- [] Investigate Roy Ying Hae's research
+- [ ] Read guidance paper
+- [ ] Contact Harvey Seim
+- [ ] Investigate Roy Ying Hae's research
 
 ## Patrick's To Do
-- [] Pull data from long bay server and upload to this repo
-- [] start cleaning/plotting data in a jupyter notebook
+- [ ] Pull data from long bay server and upload to this repo
+- [ ] start cleaning/plotting data in a jupyter notebook
