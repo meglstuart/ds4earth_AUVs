@@ -16,8 +16,8 @@
 
 ## Documents
 Project Proposal Overleaf links:
-[View only](https://www.overleaf.com/read/vyzqfdjvnxvf)
-for editing link, see google doc
+[View only](https://www.overleaf.com/read/cjgtyhsrbgwx)  
+for edit link, see google doc
 ## Papers
 [Realtime guidance of underwater gliders assisted by predictive ocean models](http://152.2.92.42:9080/VirtualHostBase/http/nccoos.org:80/nccoos/VirtualHostRoot/projects/long-bay-wintertime-blooms/presentations/chang-gliders-control-jtech-2015.pdf/view) - the group's current method of controlling gliders
 
