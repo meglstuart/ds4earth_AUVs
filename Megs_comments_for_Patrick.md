@@ -1,8 +1,10 @@
 # Hi Patrick!
 I'm going to post general friendly comments on stuff you upload to github here. You can respond to things within the document if you want.
+> perhaps you can respond to things like this?
 
 ## General stuff
 - I removed the spaces from the names of folders and files that you uploaded. When coding or using the terminal to navigate around directories, spaces have to be escaped using '\ ' which can get kinda annoying. I've heard people refer to file names with spaces in them as 'rude'. I don't know if I'd go that far, but I certainly prefer not using them.
+
 - Make sure that when you upload code to the repo it runs out-of-the-box. That usually just means that variables are properly named and initialized, and that when you import data from files, you have the proper path. i.e. 'glider_path_csvs/ram1.csv' instead of 'ram1.csv'. The best way to do this is to keep your local version of the repository clean, meaning that you don't have a bunch of extra files that aren't in the repo, and before committing a jupyter notebook, restart the kernel (looks like a reload button at the top of the jupyter lab editing pane) and run the entire notebook (can be done with the dropdown menu at the top labeled 'Run')
 
 ## pelagia_path and rameses_path notebooks
