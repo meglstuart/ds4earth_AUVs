@@ -1,6 +1,0 @@
-Current TODO List
-
--first datasets plotted
--project proposal outline
--contact person for ocean current models
--contact person for planned glider path data
